@@ -1,5 +1,4 @@
 # Here is a new update by juloperag
-# Here is another update by juloperag
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
